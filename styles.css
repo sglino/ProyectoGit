@@ -2,3 +2,7 @@ body {
     background-color: azure;
     text-align: center;
 } 
+#contenido {
+    border: 2px;
+    color: blueviolet;
+}
